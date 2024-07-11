@@ -1,0 +1,303 @@
+2023-11-29 17:18:37.663947 : no se pudo conectar al servidor Ha ocurrido un error
+2023-11-29 17:20:36.177074 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-11-29 17:58:39.548521: Usuario contrase�a incorrecta karynaceron@gmail.com
+2023-11-29 17:58:39.548521: Usuario no encontrado karynacero@gmail.com
+2023-11-29 17:58:39.550547 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-11-29 17:58:39.550547 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-11-29 18:57:46.829701 : no se pudo conectar al servidor �Esto es un error 500 intencional!
+2023-11-29 18:58:27.468922 : no se pudo conectar al servidor �Esto es un error 500 intencional!
+2023-11-29 19:14:45.971403 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-11-29 19:19:02.806214 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-11-29 19:19:42.691551 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-11-29 19:20:21.589725 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-11-29 19:20:47.323806 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-11-29 19:21:08.816502 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-11-29 19:34:41.208761 : error 422 datos no procesables 422 Unprocessable Entity: The request was well-formed but was unable to be followed due to semantic errors.
+2023-11-29 19:34:41.208761 : error 422 datos no procesables 422 Unprocessable Entity: The request was well-formed but was unable to be followed due to semantic errors.
+2023-11-29 19:34:41.208761 : error 422 datos no procesables 422 Unprocessable Entity: The request was well-formed but was unable to be followed due to semantic errors.
+2023-11-29 19:36:03.490447 : error 422 datos no procesables 422 Unprocessable Entity: The request was well-formed but was unable to be followed due to semantic errors.
+2023-11-29 19:46:52.603046 : error 422 permisos insuficientes 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+2023-11-29 19:46:52.603046 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-11-29 19:49:53.818432 : no se pudo conectar al servidor Ha ocurrido un error (1146, "Table 'seteagrop2.usuarios' doesn't exist")
+2023-11-29 19:51:45.981413 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-11-29 19:51:45.981413 : no se pudo conectar al servidor error.html
+2023-11-29 19:51:45.981413 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-11-29 19:54:20.354724 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-11-29 19:55:11.138264 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-11-29 19:59:54.517554 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-11-29 19:59:54.517554 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-11-29 20:02:28.857725 : no se pudo conectar al servidor error.html
+2023-11-29 20:45:12.308484 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-11-29 20:45:12.308484 : error 422 datos no procesables 422 Unprocessable Entity: The request was well-formed but was unable to be followed due to semantic errors.
+2023-11-29 20:45:12.308484 : error 422 permisos insuficientes 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+2023-11-29 20:45:12.308484 : no se pudo conectar al servidor Ha ocurrido un error (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2023-11-29 20:45:12.308484 : no se pudo conectar al servidor Ha ocurrido un error (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2023-11-29 20:45:12.308484 : no se pudo conectar al servidor Ha ocurrido un error (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2023-11-29 20:45:12.308484 : no se pudo conectar al servidor Ha ocurrido un error (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2023-11-29 21:03:09.621074 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-11-29 21:14:28.988541 : no se pudo conectar al servidor (1146, "Table 'seteagrop.veterinaria' doesn't exist")
+2023-11-30 14:20:58.960340 : no se pudo conectar al servidor expected token ',', got 'name'
+2023-11-30 14:20:58.960340 : no se pudo conectar al servidor expected token ',', got 'name'
+2023-11-30 14:26:29.849808 : no se pudo conectar al servidor expected token ',', got 'name'
+2023-11-30 15:45:03.420847 : no se pudo conectar al servidor too many values to unpack (expected 2)
+2023-12-02 15:23:33.937384 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-02 15:23:33.937384 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-12-02 15:23:33.937384 : error 422 datos no procesables 422 Unprocessable Entity: The request was well-formed but was unable to be followed due to semantic errors.
+2023-12-02 15:23:33.937384 : error 422 permisos insuficientes 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+2023-12-02 16:18:39.977628 Error al obtener productos de gatos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-02 16:19:05.432529 Error al obtener productos de gatos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-02 16:19:24.648831 Error al obtener productos de gatos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-02 16:36:29.633472 Error al obtener productos de gatos: (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+2023-12-02 16:36:29.633472 Error al obtener productos de gatos: (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+2023-12-02 16:43:38.250340 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-02 16:43:38.250340 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-02 16:43:38.203512 Error al obtener productos de gatos: (1146, "Table 'seteagrop.productos' doesn't exist")
+2023-12-02 16:43:38.250340 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-02 16:43:38.250340 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-02 16:43:38.250340 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-03 15:45:17.641635 Error al obtener productos de perros: cannot access local variable 'productos' where it is not associated with a value
+2023-12-03 15:45:17.641635 Error al obtener productos de perros: cannot access local variable 'productos' where it is not associated with a value
+2023-12-03 16:49:45.752738 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-03 20:59:00.041943 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-03 21:16:45.794032: Usuario contrase�a incorrecta karynaceron@gmail.com
+2023-12-03 21:16:45.794032 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-03 21:16:45.794032 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-03 22:11:45.642314: Usuario no encontrado karunaceron@gmail.com
+2023-12-03 22:24:35.997992 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-03 22:24:35.997992 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-03 23:29:33.354364 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-12-04 20:42:13.790831 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 20:42:13.790831 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 20:42:13.817544: Usuario no encontrado karynacero@gmail.com
+2023-12-04 21:51:07.332790: Usuario no encontrado karynavce@gmail.com
+2023-12-04 21:51:07.332790: Usuario contrase�a incorrecta karynaceron@gmail.com
+2023-12-04 21:51:07.332790: Usuario no encontrado karynaceron@gamil.com
+2023-12-04 21:51:07.332790: Usuario contrase�a incorrecta karynaceron@gmail.com
+2023-12-04 21:51:07.332790 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-04 21:51:07.332790 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-12-04 21:51:07.332790 : error 422 permisos insuficientes 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+2023-12-04 21:51:07.332790 : error 422 permisos insuficientes 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+2023-12-04 21:51:07.332790 : error 422 permisos insuficientes 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+2023-12-04 21:51:07.311114 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 21:51:07.332790 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 21:51:07.311114 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 21:51:07.332790 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 21:51:07.311114 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 21:51:07.332790 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:29:38.384714 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:29:38.434701 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:30:49.051626 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:30:49.067251 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:35:11.458111 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:35:11.504977 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:35:50.346119 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:35:50.412110 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:37:53.387872 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:37:53.420910 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-12-04 22:37:53.420910 : error 422 permisos insuficientes 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+2023-12-04 22:37:53.387872 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:37:53.404808 Error al obtener productos de gatos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:37:53.403713 Error al obtener productos de gatos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:37:53.387872 Error al obtener productos de gatos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:37:53.420910 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:37:53.387872 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 07:15:03.946328 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 07:15:03.946328 Error al obtener productos de gatos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 07:15:03.961987 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 07:15:03.946328 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 07:15:03.961987 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-12-05 07:15:03.961987 : error 422 permisos insuficientes 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+2023-12-05 07:15:03.961987 : error 422 datos no procesables 422 Unprocessable Entity: The request was well-formed but was unable to be followed due to semantic errors.
+2023-12-05 07:15:03.946328 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 07:21:56.183212 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 07:35:13.748958 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 07:35:13.761092 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 07:44:24.672776 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 07:44:24.672776 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 07:44:24.706301 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-05 07:44:24.706301 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-12-05 07:44:24.706301 : error 403 permisos insuficientes 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+2023-12-05 07:44:24.706301 : error 422 datos no procesables 422 Unprocessable Entity: The request was well-formed but was unable to be followed due to semantic errors.
+2023-12-05 07:44:24.672776 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 21:14:24.427440 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 21:16:23.748640 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 21:16:23.748640 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 21:16:23.801498 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 21:16:23.801498 : no se pudo conectar al servidor Ha ocurrido un error (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2023-12-05 21:16:23.748640 Error al obtener productos: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2023-12-05 21:16:23.748640 Error al obtener productos: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2023-12-05 21:16:23.784543 Error al obtener productos de gatos: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2023-12-05 21:16:23.760653 Error al obtener productos de gatos: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2023-12-05 21:16:23.756617 Error al obtener productos de gatos: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2023-12-05 22:06:28.595174 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 22:06:28.618359 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 22:06:28.612374 Error al obtener productos de gatos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 22:06:28.595174 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 22:06:28.618359 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-12-05 22:06:28.618359 : error 422 permisos insuficientes 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+2023-12-05 22:06:28.618359 : error 422 datos no procesables 422 Unprocessable Entity: The request was well-formed but was unable to be followed due to semantic errors.
+2023-12-06 10:37:49.975315 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-06 10:37:49.975315 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-06 10:37:50.016470 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-06 10:37:49.975315 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-06 12:23:04.200218 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-06 12:23:03.992651 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-06 12:23:04.167430 Error al obtener productos de gatos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-06 12:23:04.200218 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-06 12:23:04.200218 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-06 12:23:04.200218 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-12-06 12:23:04.200218 : error 422 permisos insuficientes 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+2023-12-06 12:23:04.200218 : error 422 datos no procesables 422 Unprocessable Entity: The request was well-formed but was unable to be followed due to semantic errors.
+2023-11-29 17:18:37.663947 : no se pudo conectar al servidor Ha ocurrido un error
+2023-11-29 17:20:36.177074 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-11-29 17:58:39.548521: Usuario contrase�a incorrecta karynaceron@gmail.com
+2023-11-29 17:58:39.548521: Usuario no encontrado karynacero@gmail.com
+2023-11-29 17:58:39.550547 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-11-29 17:58:39.550547 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-11-29 18:57:46.829701 : no se pudo conectar al servidor �Esto es un error 500 intencional!
+2023-11-29 18:58:27.468922 : no se pudo conectar al servidor �Esto es un error 500 intencional!
+2023-11-29 19:14:45.971403 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-11-29 19:19:02.806214 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-11-29 19:19:42.691551 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-11-29 19:20:21.589725 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-11-29 19:20:47.323806 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-11-29 19:21:08.816502 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-11-29 19:34:41.208761 : error 422 datos no procesables 422 Unprocessable Entity: The request was well-formed but was unable to be followed due to semantic errors.
+2023-11-29 19:34:41.208761 : error 422 datos no procesables 422 Unprocessable Entity: The request was well-formed but was unable to be followed due to semantic errors.
+2023-11-29 19:34:41.208761 : error 422 datos no procesables 422 Unprocessable Entity: The request was well-formed but was unable to be followed due to semantic errors.
+2023-11-29 19:36:03.490447 : error 422 datos no procesables 422 Unprocessable Entity: The request was well-formed but was unable to be followed due to semantic errors.
+2023-11-29 19:46:52.603046 : error 422 permisos insuficientes 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+2023-11-29 19:46:52.603046 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-11-29 19:49:53.818432 : no se pudo conectar al servidor Ha ocurrido un error (1146, "Table 'seteagrop2.usuarios' doesn't exist")
+2023-11-29 19:51:45.981413 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-11-29 19:51:45.981413 : no se pudo conectar al servidor error.html
+2023-11-29 19:51:45.981413 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-11-29 19:54:20.354724 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-11-29 19:55:11.138264 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-11-29 19:59:54.517554 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-11-29 19:59:54.517554 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-11-29 20:02:28.857725 : no se pudo conectar al servidor error.html
+2023-11-29 20:45:12.308484 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-11-29 20:45:12.308484 : error 422 datos no procesables 422 Unprocessable Entity: The request was well-formed but was unable to be followed due to semantic errors.
+2023-11-29 20:45:12.308484 : error 422 permisos insuficientes 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+2023-11-29 20:45:12.308484 : no se pudo conectar al servidor Ha ocurrido un error (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2023-11-29 20:45:12.308484 : no se pudo conectar al servidor Ha ocurrido un error (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2023-11-29 20:45:12.308484 : no se pudo conectar al servidor Ha ocurrido un error (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2023-11-29 20:45:12.308484 : no se pudo conectar al servidor Ha ocurrido un error (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2023-11-29 21:03:09.621074 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-11-29 21:14:28.988541 : no se pudo conectar al servidor (1146, "Table 'seteagrop.veterinaria' doesn't exist")
+2023-11-30 14:20:58.960340 : no se pudo conectar al servidor expected token ',', got 'name'
+2023-11-30 14:20:58.960340 : no se pudo conectar al servidor expected token ',', got 'name'
+2023-11-30 14:26:29.849808 : no se pudo conectar al servidor expected token ',', got 'name'
+2023-11-30 15:45:03.420847 : no se pudo conectar al servidor too many values to unpack (expected 2)
+2023-12-02 15:23:33.937384 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-02 15:23:33.937384 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-12-02 15:23:33.937384 : error 422 datos no procesables 422 Unprocessable Entity: The request was well-formed but was unable to be followed due to semantic errors.
+2023-12-02 15:23:33.937384 : error 422 permisos insuficientes 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+2023-12-02 16:18:39.977628 Error al obtener productos de gatos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-02 16:19:05.432529 Error al obtener productos de gatos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-02 16:19:24.648831 Error al obtener productos de gatos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-02 16:36:29.633472 Error al obtener productos de gatos: (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+2023-12-02 16:36:29.633472 Error al obtener productos de gatos: (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+2023-12-02 16:43:38.250340 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-02 16:43:38.250340 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-02 16:43:38.203512 Error al obtener productos de gatos: (1146, "Table 'seteagrop.productos' doesn't exist")
+2023-12-02 16:43:38.250340 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-02 16:43:38.250340 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-02 16:43:38.250340 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-03 15:45:17.641635 Error al obtener productos de perros: cannot access local variable 'productos' where it is not associated with a value
+2023-12-03 15:45:17.641635 Error al obtener productos de perros: cannot access local variable 'productos' where it is not associated with a value
+2023-12-03 16:49:45.752738 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-03 20:59:00.041943 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-03 21:16:45.794032: Usuario contrase�a incorrecta karynaceron@gmail.com
+2023-12-03 21:16:45.794032 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-03 21:16:45.794032 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-03 22:11:45.642314: Usuario no encontrado karunaceron@gmail.com
+2023-12-03 22:24:35.997992 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-03 22:24:35.997992 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-03 23:29:33.354364 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-12-04 20:42:13.790831 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 20:42:13.790831 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 20:42:13.817544: Usuario no encontrado karynacero@gmail.com
+2023-12-04 21:51:07.332790: Usuario no encontrado karynavce@gmail.com
+2023-12-04 21:51:07.332790: Usuario contrase�a incorrecta karynaceron@gmail.com
+2023-12-04 21:51:07.332790: Usuario no encontrado karynaceron@gamil.com
+2023-12-04 21:51:07.332790: Usuario contrase�a incorrecta karynaceron@gmail.com
+2023-12-04 21:51:07.332790 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-04 21:51:07.332790 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-12-04 21:51:07.332790 : error 422 permisos insuficientes 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+2023-12-04 21:51:07.332790 : error 422 permisos insuficientes 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+2023-12-04 21:51:07.332790 : error 422 permisos insuficientes 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+2023-12-04 21:51:07.311114 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 21:51:07.332790 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 21:51:07.311114 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 21:51:07.332790 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 21:51:07.311114 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 21:51:07.332790 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:29:38.384714 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:29:38.434701 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:30:49.051626 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:30:49.067251 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:35:11.458111 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:35:11.504977 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:35:50.346119 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:35:50.412110 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:37:53.387872 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:37:53.420910 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-12-04 22:37:53.420910 : error 422 permisos insuficientes 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+2023-12-04 22:37:53.387872 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:37:53.404808 Error al obtener productos de gatos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:37:53.403713 Error al obtener productos de gatos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:37:53.387872 Error al obtener productos de gatos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:37:53.420910 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-04 22:37:53.387872 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 07:15:03.946328 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 07:15:03.946328 Error al obtener productos de gatos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 07:15:03.961987 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 07:15:03.946328 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 07:15:03.961987 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-12-05 07:15:03.961987 : error 422 permisos insuficientes 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+2023-12-05 07:15:03.961987 : error 422 datos no procesables 422 Unprocessable Entity: The request was well-formed but was unable to be followed due to semantic errors.
+2023-12-05 07:15:03.946328 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 07:21:56.183212 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 07:35:13.748958 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 07:35:13.761092 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 07:44:24.672776 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 07:44:24.672776 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 07:44:24.706301 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2023-12-05 07:44:24.706301 : error interno del servidor 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-12-05 07:44:24.706301 : error 403 permisos insuficientes 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+2023-12-05 07:44:24.706301 : error 422 datos no procesables 422 Unprocessable Entity: The request was well-formed but was unable to be followed due to semantic errors.
+2023-12-05 07:44:24.672776 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 21:14:24.427440 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 21:16:23.748640 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 21:16:23.748640 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 21:16:23.801498 : no se pudo conectar al servidor Ha ocurrido un error (2002, "Can't connect to server on 'localhost' (10061)")
+2023-12-05 21:16:23.801498 : no se pudo conectar al servidor Ha ocurrido un error (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2023-12-05 21:16:23.748640 Error al obtener productos: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2023-12-05 21:16:23.748640 Error al obtener productos: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2023-12-05 21:16:23.784543 Error al obtener productos de gatos: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2023-12-05 21:16:23.760653 Error al obtener productos de gatos: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2023-12-05 21:16:23.756617 Error al obtener productos de gatos: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2024-01-01 21:46:58.920240 Error al obtener productos: (2002, "Can't connect to server on 'localhost' (10061)")
+2024-01-01 21:46:58.935862 : no se pudo conectar al servidor [WinError 10061] No se puede establecer una conexi�n ya que el equipo de destino deneg� expresamente dicha conexi�n
+2024-01-01 22:00:34.948947 : no se pudo conectar al servidor [WinError 10061] No se puede establecer una conexi�n ya que el equipo de destino deneg� expresamente dicha conexi�n
+2024-01-01 22:24:31.943910 : no se pudo conectar al servidor [WinError 10061] No se puede establecer una conexi�n ya que el equipo de destino deneg� expresamente dicha conexi�n
+2024-01-01 22:31:05.040906 : no se pudo conectar al servidor [WinError 10061] No se puede establecer una conexi�n ya que el equipo de destino deneg� expresamente dicha conexi�n
+2024-01-01 22:51:44.223904 : no se pudo conectar al servidor [Errno 11001] getaddrinfo failed
+2024-01-01 22:54:47.196410 : no se pudo conectar al servidor The message does not specify a sender and a default sender has not been configured
+2024-01-02 17:51:29.500489 : no se pudo conectar al servidor name 'data' is not defined
+2024-01-02 17:52:21.452487 : no se pudo conectar al servidor 'user' is undefined
+2024-01-02 17:52:21.452487 : no se pudo conectar al servidor 'user' is undefined
+2024-01-02 17:53:48.040593 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-01-02 17:53:48.040593 : no se pudo conectar al servidor 'user' is undefined
+2024-01-02 17:53:48.040593 : pagina no encontrada 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-01-02 17:53:48.040593 : no se pudo conectar al servidor 'user' is undefined
+2024-07-11 14:56:43.121690 Error al obtener productos: (1045, "Access denied for user 'sql10673178'@'181.63.100.37' (using password: YES)")
+2024-07-11 14:56:43.127700 Error al obtener productos de gatos: (1045, "Access denied for user 'sql10673178'@'181.63.100.37' (using password: YES)")
+2024-07-11 14:56:43.121690 Error al obtener productos de gatos: (1045, "Access denied for user 'sql10673178'@'181.63.100.37' (using password: YES)")
+2024-07-11 14:56:43.121690 Error al obtener productos de gatos: (1045, "Access denied for user 'sql10673178'@'181.63.100.37' (using password: YES)")
+2024-07-11 14:56:43.127700 Error al obtener productos de gatos: (1045, "Access denied for user 'sql10673178'@'181.63.100.37' (using password: YES)")
+2024-07-11 14:56:43.121690 Error al obtener productos de gatos: (1045, "Access denied for user 'sql10673178'@'181.63.100.37' (using password: YES)")
+2024-07-11 14:56:43.121690 Error al obtener productos de gatos: (1045, "Access denied for user 'sql10673178'@'181.63.100.37' (using password: YES)")
+2024-07-11 15:19:52.399242 Error al obtener productos: (1045, "Access denied for user 'sql10673178'@'181.63.100.37' (using password: YES)")
